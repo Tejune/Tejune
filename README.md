@@ -1,6 +1,8 @@
-<p align="center"style="text-align:center">
-  <img align="center" src="https://github.com/user-attachments/assets/99df2357-ff08-499d-a135-694d12ea53c3" width="350" height="350" />
+
+  <img align="left" src="https://github.com/user-attachments/assets/99df2357-ff08-499d-a135-694d12ea53c3" width="200" height="200" />
   <br>
   <br>
-  <b>peak.png (2024)</b>
-</p>
+  <b>Hello!</b>
+  <br>
+  It's me, your local minimum-wage delivery fella! <br>
+  You should totally <a href="https://store.steampowered.com/app/2615570/Spellbrew_Express/">wishlist Spellbrew Express on Steam!</a>!
