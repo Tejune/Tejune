@@ -4,5 +4,5 @@
   <br>
   <b>Hello!</b>
   <br>
-  It's me, your local minimum-wage delivery fella! <br>
-  You should totally <a href="https://store.steampowered.com/app/2615570/Spellbrew_Express/">wishlist Spellbrew Express on Steam!</a>!
+  It's me, your local minimum-wage delivery mage! <br>
+  While you're here, you should totally <a href="https://store.steampowered.com/app/2615570/Spellbrew_Express/">wishlist Spellbrew Express on Steam!</a>!
